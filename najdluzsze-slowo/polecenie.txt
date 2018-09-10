@@ -1,0 +1,6 @@
+Wyświetl najdłuższe słowo
+a) Spośród dwóch wprowadzonych
+b) Spośród trzech wprowadzonych
+c) Z pliku dane.txt
+
+Pytanie - co w przypadku gdy na wejściu znajdzie się kilka słów identycznej długości? Póki co zignorowałem taki przypadek, gdy się zapytam, w razie potrzeby poprawię
