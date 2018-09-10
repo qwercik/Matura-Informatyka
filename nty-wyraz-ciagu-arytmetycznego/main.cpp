@@ -1,6 +1,6 @@
 #include <iostream>
 
-int arithmeticSequenceMember(unsigned memberIndex, int firstMember, int difference)
+int arithmeticSequenceMember(unsigned memberIndex, double firstMember, double difference)
 {
     if (memberIndex == 1)
     {
@@ -15,11 +15,11 @@ int arithmeticSequenceMember(unsigned memberIndex, int firstMember, int differen
 int main()
 {
     std::cout << "Podaj pierwszy wyraz ciągu arytmetycznego: ";
-    int firstMember;
+    double firstMember;
     std::cin >> firstMember;
 
     std::cout << "Podaj różnicę ciągu arytmetycznego: ";
-    int difference;
+    double difference;
     std::cin >> difference;
 
     std::cout << "Który wyraz ciągu chcesz obliczyć? Ciągi numerujemy począwszy od 1. ";
