@@ -1,0 +1,3 @@
+Napisz program, który uporządkuje rosnąco znaki w podanym stringu
+
+Pytanie - według czego ma je uporządkowywać? Według wartości liczbowej znaku? (np. ASCII)
