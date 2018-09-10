@@ -1,0 +1,3 @@
+Napisz funkcję która wyświetli podany string:
+a) od końca
+b) pionowo
