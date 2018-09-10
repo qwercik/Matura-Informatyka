@@ -1,0 +1,1 @@
+Oblicz rekurencyjnie n-ty wyraz ciągu arytmetycznego dla wprowadzonych wartości a1 i r.
