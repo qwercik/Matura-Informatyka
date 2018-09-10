@@ -1,0 +1,1 @@
+Oblicz sumę pierwszych n wyrazów ciągu geometrycznego ze wzoru (wzoru nie podaję, bo trudno go umieścić w pliku tekstowym, ale jest on dość prosty do znalezienia w Internecie lub książkach).
