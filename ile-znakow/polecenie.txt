@@ -1,0 +1,1 @@
+Napisz funkcję, która policzy ile jest w stringu wybranych przez użytkownika znaków
