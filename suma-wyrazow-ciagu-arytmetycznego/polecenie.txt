@@ -1,0 +1,2 @@
+Oblicz sumę n pierwszych wyrazów ciągu arytmetycznego ze wzoru 
+S(n) = (a(1) + a(n)) * n / 2
