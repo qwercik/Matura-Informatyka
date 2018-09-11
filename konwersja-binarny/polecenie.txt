@@ -1,0 +1,1 @@
+Napisz program, który zapisze podaną liczbę dziesiętną naturalną w systemie binarnym. Rozwiąż zadany problem rekurencyjnie
