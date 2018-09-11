@@ -1,0 +1,7 @@
+Poniżej zdefiniowany jest pewien ciąg, któ©ego kolejne wyrazy generowane są w sposób rekurencyjny
+
+       { 1                    dla n = 1
+a(n) = { 0.5                  dla n = 2
+       { -a(n-1) * a(n-2)     dla n > 2
+
+Napisz program, który znajdzie wartość n-tego wyrazu ciągu.
