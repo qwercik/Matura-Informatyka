@@ -1,0 +1,4 @@
+Napisz funkcję porównaj, która jako argumenty otrzymuje dwa napisy i zwraca 1, gdy napisy są równe i 0 w przeciwnym przypadku
+
+Wątpliwości - ogólnie takie zadanie przy wykorzystaniu klasy std::string lub nawet biblioteki <cstring> wraz z klasycznym stringiem w stylu C (tablica typu char) jest bardzo proste i nie wiem czy byłby sens sprawdzania takiej umiejętności w zadaniu. W pierwszym przypadku wystarczy użyć przeładowanego operatora ==, w drugim funkcji strcmp. W każdym razie, aby zadanie stanowiło jakieś "wyzwanie intelektualne" postanowiłem napisać własną funkcję typu strcmp, również w oparciu o tzw. C-stringi.
+Dodatkowo, polecenie zadania prawdopodobnie pierwotnie dotyczyło języka C, nie C++ - dlatego w poleceniu jest mowa o zwracaniu wartości liczbowych: 0 i 1. Ja użyję typu bool (który swoją drogą został wprowadzony w języku C w wersji standardu C99), zwracanie true lub false będzie moim zdaniem przejrzystsze.
