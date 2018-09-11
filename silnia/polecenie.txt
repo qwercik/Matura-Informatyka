@@ -1,0 +1,1 @@
+Napisz program, który policzy silnię z liczby n sposobem rekurencyjnym
